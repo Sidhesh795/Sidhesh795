@@ -135,6 +135,13 @@ I’m still early in the journey—but that also means there is a lot more to bu
 ## 📡 Establish a Connection
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sidhesh795-181717?style=for-the-badge&logo=github)](https://github.com/Sidhesh795)
+<a href="mailto:sidheshindalkar9@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/Sidhesh Indalkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 **Ask me about:** Python, AI ideas, automation, gym routines, rides, projects, or why fixing one bug creates two more.
 
