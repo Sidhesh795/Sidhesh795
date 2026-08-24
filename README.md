@@ -138,8 +138,9 @@ I’m still early in the journey—but that also means there is a lot more to bu
 
 **Ask me about:** Python, AI ideas, automation, gym routines, rides, projects, or why fixing one bug creates two more.
 
-**Email:** `add-your-email-here`  •  **LinkedIn:** `add-your-link-here`
-
+📧 <a href="mailto:sidheshindalkar9@gmail.com">Email Me</a>
+&nbsp; • &nbsp;
+💼 <a href="https://www.linkedin.com/in/sidhesh-indalkar-4087a3288/" target="_blank">LinkedIn</a>
 ```text
 Built with curiosity, gym sessions, long rides, questionable sleep schedules, and the refusal to stop at “it should work.”
 ```
