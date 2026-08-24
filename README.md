@@ -120,9 +120,9 @@ Does it work?
 <img src="assets/mahoraga.png" width="420" alt="Mahoraga adapting">
 
 
-### **Just Adapt.**
+### **Just Adapt. Brutal**
 
-*— like Mahoraga: observe, adapt, overcome.*
+*observe, adapt, overcome.*
 
 </div>
 
