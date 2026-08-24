@@ -117,12 +117,12 @@ Does it work?
 
 <div align="center">
 
+<img src="assets/mahoraga.png" width="420" alt="Mahoraga adapting">
+
+
 ### **Just Adapt.**
 
 *— like Mahoraga: observe, adapt, overcome.*
-
-
-<img src="assets/mahoraga.png" width="420" alt="Mahoraga adapting"> 
 
 </div>
 
