@@ -121,7 +121,7 @@ Does it work?
 
 ### **Just Adapt. Brutal.**
 
-*— like Mahoraga: observe, adapt, overcome.*
+*observe, adapt, overcome.*
 
 
 
