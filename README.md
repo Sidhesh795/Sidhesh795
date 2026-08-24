@@ -1,4 +1,5 @@
-# `SIDHESH.exe` 👾
+# `Sidhesh Indalkar` 👾
+# "Vir Ardens"
 
 ### **Loading ideas... turning them into something that works.**
 
