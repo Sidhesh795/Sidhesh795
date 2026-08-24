@@ -121,8 +121,8 @@ Does it work?
 
 *— like Mahoraga: observe, adapt, overcome.*
 
-<!-- Upload your image to assets/mahoraga.png, then remove the comment markers below. -->
-<!-- <img src="assets/mahoraga.png" width="420" alt="Mahoraga adapting"> -->
+
+<img src="assets/mahoraga.png" width="420" alt="Mahoraga adapting"> 
 
 </div>
 
