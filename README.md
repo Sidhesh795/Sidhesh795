@@ -1,5 +1,4 @@
-### `Sidhesh Indalkar` 👾
-*Vir Ardens*
+# `SIDHESH.INDALKAR` 👾
 
 ### **Loading ideas... turning them into something that works.**
 
@@ -14,11 +13,11 @@
 
 **Python • AI • Automation • Backend • Cloud Security**
 
-> Part-time code architect, part-time gym regular, full-time trying to figure it out.
+> Part-time code architect, full-time gym regular, full-time pretending the bug was intentional.
 
 ---
 
-## 🧪 `This is Me()`
+## 🧪 `Tis is me()` — please don’t ask for production credentials
 
 ```python
 class Sidhesh:
@@ -35,19 +34,19 @@ class Sidhesh:
         "Projects that begin as 'what if...?'"]
 
     weakness = "Starting 5 ideas at once"
-    superpower = "Still coming back to finish them"
+    superpower = "Finishing at least 2.5 of them"
 
     def current_status(self):
         return "Learning seriously. Building loudly. Improving quietly."
 ```
 
-I’m not here to pretend I’ve mastered everything. I’m here to learn fast, build real things, understand why they work, and keep upgrading my skills one project at a time.
+I’m not here to pretend I’ve mastered everything. I’m here to learn fast, build real things, understand why they work, and upgrade my skills one questionable commit at a time.
 
 > **My rule:** If I can imagine it, I should at least try to build a first version of it.
 
 ## 🌆 The Human Behind the Repositories
 
-When I’m not staring at code, I like getting out of the room—training at the gym, going for rides, clearing my head, and letting random ideas turn into future projects.
+When I’m not staring at code, I try to leave the room—training at the gym, going for rides, clearing my head, and pretending the next random idea will not become another repository.
 
 The balance is simple:
 
@@ -55,7 +54,7 @@ The balance is simple:
 Morning:     become stronger
 Afternoon:   build something
 Evening:     go for a ride
-Night:       get one more idea and probably open the laptop again
+Night:       open the laptop "for five minutes"
 ```
 
 For me, building software is part of a bigger goal: becoming more capable in every direction—physically, technically, and personally.
@@ -83,7 +82,7 @@ const mainQuest = {
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![AI](https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🧠 Quick Facts
+## 🧠 Quick Facts Nobody Asked For
 
 | 🧩 Current build | 🔥 Current challenge | 🧭 Long-term direction |
 |---|---|---|
@@ -96,7 +95,7 @@ const mainQuest = {
 | When I’m building | When I’m away from the screen |
 |---|---|
 | Exploring AI ideas | Training at the gym |
-| Debugging until it makes sense | Going on rides |
+| Debugging until it makes sense | Burning off rubber and tarmac |
 | Learning tools I don’t know yet | Resetting my head and coming back sharper |
 
 ## 🐛 Debugging Philosophy
@@ -120,29 +119,28 @@ Does it work?
 
 <img src="assets/mahoraga.png" width="420" alt="Mahoraga adapting">
 
+### **Just Adapt. Brutal **
 
-### **Just Adapt. Brutal**
+*— like Mahoraga: observe, adapt, overcome.*
 
-*observe, adapt, overcome.*
+
+
 
 </div>
 
-## 🌱 What I’m Looking For
+## 🌱 What I’m Looking For — besides the missing semicolon
 
 People who are building, learning, experimenting, or simply curious about technology. I’m especially open to beginner-friendly collaborations around AI, automation, backend development, and cybersecurity.
 
-I’m still early in the journey—but that also means there is a lot more to build.
+I’m still early in the journey—but that also means there is a lot more to build, break, fix, and explain in a README.
 
 ## 📡 Establish a Connection
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sidhesh795-181717?style=for-the-badge&logo=github)](https://github.com/Sidhesh795)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidheshindalkar9@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidhesh-indalkar-4087a3288/)
+**Ask me about:** Python, AI ideas, automation, gym routines, rides, projects, or why fixing one bug creates two more and somehow both are my fault.
 
-**Ask me about:** Python, AI ideas, automation, gym routines, rides, projects, or why fixing one bug creates two more.
 
-📧 <a href="mailto:sidheshindalkar9@gmail.com">sidheshindalkar9@gmail.com</a>
-&nbsp; • &nbsp;
-💼 <a href="https://www.linkedin.com/in/sidhesh-indalkar-4087a3288/" target="_blank">Sidhesh Indalkar</a>
 ```text
 Built with curiosity, gym sessions, long rides, questionable sleep schedules, and the refusal to stop at “it should work.”
 ```
