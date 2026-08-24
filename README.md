@@ -18,7 +18,7 @@
 
 ---
 
-## 🧪 `who_am_i()`
+## 🧪 `This is Me()`
 
 ```python
 class Sidhesh:
