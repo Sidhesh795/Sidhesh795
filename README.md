@@ -1,5 +1,5 @@
 ### `Sidhesh Indalkar` 👾
-* Vir Ardens *
+*Vir Ardens*
 
 ### **Loading ideas... turning them into something that works.**
 
